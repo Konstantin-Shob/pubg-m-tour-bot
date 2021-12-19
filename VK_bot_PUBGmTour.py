@@ -3,7 +3,7 @@ from vk_api.longpoll import VkLongPoll, VkEventType
 from vk_api.keyboard import VkKeyboard, VkKeyboardColor
 
 # API токен сообщества
-mytoken = '88a9a3f74ed45bb34f37d9e5363c6c00dfe23b3c6bc35959161482e64df0194039a175ea4338fcb759352'
+mytoken = '038431fe77065c3bba87a7c9577d2aa7c4d2586eb401660d3115dbe8323b161fbbe2ed01adf293fff7dd1'
 
 msg_help = """
 • Вы можете в любой момент воспользоваться командами, указанными в меню, команды можно писать с заглавной и прописной буквой, с кавычками и без них. 
